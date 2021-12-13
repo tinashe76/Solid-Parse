@@ -1,0 +1,1 @@
+title Solid Parse [Console] && cls && color a && cd files && python _main.py
