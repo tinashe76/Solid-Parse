@@ -1,0 +1,13 @@
+---------------------------------PATCH NOTES---------------------------------
+
+------------------------------ver 1.0.1-------------------------------------
+
+1. Fixed Refresh Issue
+2. Added An option to mount files instead of inputting filename via terminal
+3. Added 'Print To Browser' option (Browser Must Support HTML 5)
+
+------------------------------ver 1.0.2-------------------------------------
+
+1. Added An option to parse files directly from the cloud
+2. Replaced main (wildcard) textviewer with notepad++
+
